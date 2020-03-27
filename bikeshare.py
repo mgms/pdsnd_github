@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-# try to get user input about city, month and day of bikeshare data
+### try to get user input about city, month and day of bikeshare data
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -42,7 +42,7 @@ if day not in ('Monday','monday', 'Tuesday', 'tuesday', 'Wednesday', 'wednesday'
   print ("\n Please try again and input one of the choices above.")
   continue
 else:
- break
+   break
 
 print ('-'*40)
   return city, month, day
