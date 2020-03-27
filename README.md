@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+It is 27 of march to start my udacity final project and create my README file.
 
 ### Project Title
-Replace the Project Title
+my udacity final project.
 
 ### Description
-Describe what your project is about and what it does
+investigating bikeshare database.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/ritstudentgovernment/BikeShare.git
+
 
